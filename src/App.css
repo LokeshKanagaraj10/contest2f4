@@ -36,3 +36,40 @@
     transform: rotate(360deg);
   }
 }
+
+
+.header{
+  text-align: center;
+}
+
+.movietable{
+  margin-left: 15%;
+  margin-right: 15%;
+  width: 70%;
+  border: 1px solid black;
+  border-collapse: collapse;
+}
+
+.tableheading{
+  text-align: start;
+  background-color: lightgray;
+}
+
+.maingenre{
+  width: 70%;
+  margin-top: 2%;
+  margin-bottom: 2%;
+  margin-left: 15%;
+  margin-right: 15%;
+  padding: 2%;
+  background-color: lightgray;
+  border:none;
+  border-radius: 2%;
+}
+
+.container{
+  width: 100%;
+  display: flex;
+  gap: 10px;
+  flex-wrap: wrap;
+}

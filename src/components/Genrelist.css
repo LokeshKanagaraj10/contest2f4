@@ -1,0 +1,13 @@
+.genrebtn{
+    padding: 10px;
+    background-color: white;
+    color: black;
+    border: white;
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+    
+}
+
+.genrebtn:hover{
+    background-color: black;
+    color: white;
+}
